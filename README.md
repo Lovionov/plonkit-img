@@ -1,6 +1,6 @@
 # plonkit-img
 
-Image assets for the TestGuessr autoplay/meta userscript, served via
+Image assets for the Plonkit meta website
 [jsDelivr](https://www.jsdelivr.com/) from this public GitHub repo.
 
 ## Structure
